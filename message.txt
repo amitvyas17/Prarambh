@@ -1,0 +1,2 @@
+hello
+mongodb+srv://amit_newUser:vvyyaass@cluster0.2ostxll.mongodb.net/shop?retryWrites=true&w=majority`

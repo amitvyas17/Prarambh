@@ -1,0 +1,6 @@
+# render.yaml
+
+services:
+  - name: prarambh
+    buildCommand: npm install
+    startCommand: npm start
